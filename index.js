@@ -2,7 +2,7 @@
 *
 *  winqdev (aka Vikke)    
 *  (c) 2023               
-*  ohmslaw package
+*  guys-lab package
 *  under MIT License
 *
 ****************************/
