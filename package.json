@@ -1,0 +1,14 @@
+{
+  "name": "ohms-law",
+  "version": "1.0.0",
+  "description": "Save some lines to calculate popular units like Ohm, Voltage, etc",
+  "main": "index.js",
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/winqdev/ohmslaw"
+    },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "license": "MIT"
+}
