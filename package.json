@@ -7,6 +7,15 @@
       "type": "git",
       "url": "https://github.com/winqdev/ohmslaw"
     },
+    "keywords": [
+      "ohm",
+      "voltage",
+      "watt",
+      "unitcalculator",
+      "intensity",
+      "amper",
+      "ohmslaw"
+    ],
   "scripts": {
     "start": "node index.js"
   },
